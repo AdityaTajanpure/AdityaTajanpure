@@ -24,4 +24,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AdityaTajanpure&show_icons=true&theme=radical"></p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityatajanpure&compact=true" alt="adityatajanpure" /></p>
 
-<p align="center"> <a href="https://www.linkedin.com/posts/aditya-tajanpure_measure-your-skills-activity-6838062817409687552-7RHx?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noreferrer"> <img src="https://media-exp1.licdn.com/dms/image/sync/C5627AQEv0n81r_fEjQ/articleshare-shrink_800/0/1661768079127?e=1662980400&v=beta&t=q2ejtoEUJ28oK17uYS59xc0HD8Im_q7MArxkACECDqw" width="56%"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/posts/aditya-tajanpure_measure-your-skills-activity-6838062817409687552-7RHx?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noreferrer"> <img src="https://media-exp1.licdn.com/dms/image/sync/C5627AQEv0n81r_fEjQ/articleshare-shrink_800/0/1663648379540?e=1664287200&v=beta&t=RW5p8kfPDwSo2xJVaUOD5dHRQkzwoeAkndNm9oxwfcI" width="56%"/> </a> </p>
