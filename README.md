@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, Frontend Development**
 
-- 👨‍💻 All of my projects are available at [https://adityatajanpure.netlify.com/](https://adityatajanpure.netlify.com/)
+- 👨‍💻 All of my projects are available at [https://adityatajanpure.netlify.com/](https://adityatajanpure.netlify.app/)
 
 - 💬 Ask me about **JavaScript, Android, Computing & Networks**
 
